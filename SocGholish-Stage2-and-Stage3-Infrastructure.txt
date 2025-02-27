@@ -1,5 +1,5 @@
 Author: 
-- @Malware_Brandon
+- @Malware_Brandon - https://x.com/Malware_Brandon
 
 Description:
 - The following IOCs belong to infrastructure responsible for distributing SocGholish/FakeUpdates.
