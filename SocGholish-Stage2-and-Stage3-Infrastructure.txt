@@ -1,0 +1,153 @@
+Author: 
+- @Malware_Brandon
+
+Description:
+- The following IOCs belong to infrastructure responsible for distributing SocGholish/FakeUpdates.
+
+Reference for full initial attack chain: 
+- https://x.com/Malware_Brandon/status/1853537289315704935
+
+Notes:
+- The format of the list is as follows:
+- <Stage-3 SocGholish domain>
+	- <Stage-2 SocGholish domain that reaches out to the Stage-3 above it>
+	- <VirusTotal entry to the Stage-2 script that reaches out to the Stage-3>
+
+- You might need VT Enterprise to see the 'Content' and 'Relation' tabs in VirusTotal which is where the most relevant information is.
+- Some Stage-3 domains I only found via searching for similar VT scripts, but never actually saw any Stage-2s calling out to them, these are the ones towards the bottom.
+- Some Stage-2 domains have been observed reaching out to multiple Stage-3 domains over time, hence why they show up under multiple Stage-3 domains below.
+
+=====
+
+SocGholish Infrastructure:	
+
+- pluralism[.]themancav[.]com
+	- cdngetmyname[.]biz
+	- aitcaid[.]com
+	- auth-owlting[.]com
+	- www-wpx[.]net
+	- cdnjscloudnetwork[.]co
+	- binder-sa[.]com
+	- secure1-imnotionshosting[.]com
+	- marvin-occentus[.]net
+	- https://www.virustotal.com/gui/file/ccbdf817ba435e666b930c8b8c2447b66581208ff6a870ad2d3f8c670bb18a44/detection
+	- https://www.virustotal.com/gui/file/3960860ed9b76d13e5fef1de990d3f83165e4db0c180e4d6d088d0b94bc2c3dc/detection
+	- https://www.virustotal.com/gui/file/d34c1bf24f853e92d5b20993c44248ede64abea7867762fb0f344b78bffcbe2a/detection
+	- https://www.virustotal.com/gui/file/cc1467f361fba0705df5d01cdf94cee593811c7d5011064a219fdd5cecd3287e/detection
+	- https://www.virustotal.com/gui/file/6416f7b03438bc55ace26745cf5274525467747a2449e5dfe2eb516c76c543da/detection
+	- https://www.virustotal.com/gui/file/41b76ecf5385466ccc0f051b4e84ead556881ea9a739c1165d5d4f6b34c0577e/detection
+	
+- scada[.]paradizeconstruction[.]com
+	- asyncprogramminghub[.]com
+	- moderncssframeworks[.]com
+	- apifunctioncall[.]com
+	- responsiveuikit[.]com
+	- apieventemitter[.]com
+	- advancedapiintegrations[.]com
+	- webapidevelopment[.]com
+	- gitbrancher[.]com
+	- modularfunctiondev[.]com
+	- funcallback[.]com
+	- blacksaltys[.]com
+	- packedbrick[.]com
+	- apifetchmethod[.]com
+	- apistoragecache[.]com
+	- asyncawaitapi[.]com
+	- apidevst[.]com
+	- tnoodlezy[.]com
+	- https://www.virustotal.com/gui/file/328a41d5897e2d2b7973403ffe34434047054f27299e476ca3466cc120c49376/detection
+	- https://www.virustotal.com/gui/file/789d560be25de17f684efd46f81cefe7189085104952e64132187fc3bfdd6187/detection
+	- https://www.virustotal.com/gui/file/2598f0e5be830d58ee452f6811acce98d2cd55fd20b2460d59ae05ffdeffd994/detection
+	- https://www.virustotal.com/gui/file/2a6d445250acbb994cd5f87dec23dabadedddd1f1209e7f1d5388d3a132d0944/detection
+ 
+- virtual[.]urban-orthodontics[.]com
+	- blacksaltys[.]com
+	- packedbrick[.]com
+	- loopconstruct[.]com
+	- leatherbook[.]org
+	- promiseresolverdev[.]com
+	- variablescopetool[.]com
+	- groundrats[.]org
+	- webapiintegration[.]cloud
+	- objmapper[.]com
+	- customer[.]thewayofmoney[.]us
+	- blackshelter[.]org
+	- rednosehorse[.]com
+	- apiexplorerzone[.]com
+	- https://www.virustotal.com/gui/file/39bd6476057eb7a4a6b6880a1abcda4e87dc62ad44e46c7256e0e2817f780fbe/detection
+	- https://www.virustotal.com/gui/file/19bf662ee014aad8ba0f40488dde4bdfc84f873d49dab32ec618046e2c200975/detection
+	- https://www.virustotal.com/gui/file/f08edf14933e29ea8ecd527211d735e80e4277d29a64dcadcb59b5d44b05c15c/detection
+ 
+- stake[.]libertariancounterpoint[.]com
+	- apistoragecache[.]com
+	- asyncawaitapi[.]com
+	- apidevst[.]com
+	- tnoodlezy[.]com
+	- snackfunp[.]com
+	- apidevwa[.]com
+	- apifetchmethod[.]com
+	- tnoodlezy[.]com
+	- apieventemitter[.]com
+	- advancedapiintegrations[.]com
+	- funcallback[.]com
+	- gitbrancher[.]com
+	- asyncfunctionapi[.]com
+	- https://www.virustotal.com/gui/file/e845a141f674f9a0f2bacb8bf76d0fc5130257537d7490e55d87a23fb8c8906a/detection
+	- https://www.virustotal.com/gui/file/74967e1466662a2b521048cd6d78f5d0c9fe23cdf0690a228942d3c077eb9303/detection
+	- https://www.virustotal.com/gui/file/8d4ffd799b650965fd4cb13d89692f3dd156faa03ba5401c420a2e0e68168837/detection
+
+- dashnex[.]plexusmarket[.]fund
+	- monsterpword[.]com
+	- https://www.virustotal.com/gui/file/a06b40943b4e4d4057756a456e7016b3eae69eeb2c4b1311ce53f5fd9dd7cefa/detection
+ 
+- circle[.]innovativecsportal[.]com
+	- majorbrdide[.]com
+	- https://www.virustotal.com/gui/file/fce0b35eb3fa3db05e5c6532705758a8669d5bb6fc1825175c0ee67bbbd38862/detection
+ 
+- mentor[.]omgwowhq[.]org
+	- streammain[.]top
+	- cdn1[.]massearchtraffic[.]top
+	- raw[.]githubusercontent[.]com/alexanderrpatton/cdn/main/sockets[.]txt
+	- raw[.]githubusercontent[.]com/asddw1122/add/refs/heads/main/sockets[.]txt
+	- https://www.virustotal.com/gui/file/c5637fe09591c99de20ede11acf49037ecbb5a33117d0f644162de37784cc870/detection
+ 
+- clients[.]dedicatedservicesusa[.]com
+	- https://www.virustotal.com/gui/file/77ba87f9af5738061a9e5b8b8ad3119c2896188928283112dfd0d1882a6a347d/detection
+	- https://www.virustotal.com/gui/file/dfc159e0987ac2ea946fd45fa61f81d828a5302d02d53dd7cf88cefefc79c316/detection
+	- https://www.virustotal.com/gui/file/3862b771872c705cb757d851d7714de369cbf8db548d8dcac7edcc46933045e0/detection
+	- https://www.virustotal.com/gui/file/b151cd35a8aa986bd6bd6f2148fd9ca37e2953e823d658c088923b49e87b4035/detection
+ 
+- editions[.]seattlemysterylovers[.]com
+	- https://www.virustotal.com/gui/file/2f9e5ea05aa8cd81c1c1f0914220557c5dc4a8bc42ee822bd327e3cfc3328f45/detection
+	- https://www.virustotal.com/gui/file/8f896f3f0b5f33413217e9350dba6d4958cc9bdf568902a08d739b43db6f993b/detection
+	- https://www.virustotal.com/gui/file/d4cc9da5d797c8978329a5f2ae2ed83402835b7c876ebe9eaf82163e69a1703e/detection
+ 
+- welcome[.]visionaryyouth[.]org
+	- https://www.virustotal.com/gui/file/30bccc3b41684ce4f0e96cd31f29cd35cb8c75352a2478e68d39d6fc16025cf6/detection
+ 
+- africa[.]thesmalladventureguide[.]com
+	- https://www.virustotal.com/gui/file/efa35591f5a9ef13cb0a6cf419e8a69217bef499a9964347018d4eb748d192f4/detection
+	- https://www.virustotal.com/gui/file/1b5535d779d9106299d687b3f1987b8150c33c35f52f9d48503d2a27a5970a68/detection
+ 
+- premium[.]davidabostic[.]com
+	- https://www.virustotal.com/gui/file/34ee9cfa881bbfa06eef959f2d306cf92a14a04158b2d76a41db82ea0872eaa9/detection
+	- https://www.virustotal.com/gui/file/e2c4327ee329d30bae31841405430c39f4f04cf79c144d2843fd0010a52d5559/detection
+	- https://www.virustotal.com/gui/file/1dc346e2d2bd74f2be43a1b91c42f9e926772ae82f6af5691629340cb4fd6f81/detection
+	- https://www.virustotal.com/gui/file/c4322586146802babacee36f00d5df5193fb6a3eaf2f89954aa0479960548b0e/detection
+ 
+- retraining[.]allstardriving[.]org
+	- https://www.virustotal.com/gui/file/151085ea6438df7c920efc97539f934f4b8fa1323439dd54fb4ba15785784dfc/detection
+	- https://www.virustotal.com/gui/file/90aaa694b589e559bedaddd6c2466bc7f337d0507f25cb91ebaa81303aeedb97/detection
+	- https://www.virustotal.com/gui/file/f88ca1f50185ef5bd10810c33d3506a6d11f71e86fa2da19fd292000220f9220/detection
+ 
+- miner[.]eastestsite[.]com
+	- tnoodlezy[.]com
+	- https://www.virustotal.com/gui/file/5adeedf5145f5f6fe7adb3f5b6eaa31c2fbff80dee087a80918e5f0e0e1f6034/detection
+ 
+- collar[.]agrcwv[.]org
+	- Honestly I don't remember how I came across this one, couldn't find it again referenced in a VT script.
+
+=====
+
+Revision Notes:
+	- List published: 2/26/25
