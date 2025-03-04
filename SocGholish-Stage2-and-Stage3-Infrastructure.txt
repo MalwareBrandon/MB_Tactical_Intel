@@ -7,6 +7,12 @@ Description:
 Reference for full initial attack chain: 
 - https://x.com/Malware_Brandon/status/1853537289315704935
 
+Additional References:
+- https://www.proofpoint.com/us/blog/threat-insight/update-fake-updates-two-new-actors-and-new-mac-malware
+- https://intel471.com/blog/threat-hunting-case-study-socgholish
+- https://trac-labs.com/dont-ghost-the-socgholish-ghostweaver-backdoor-574154dd9983
+- https://www.googlecloudcommunity.com/gc/Community-Blog/Finding-Malware-Detecting-Fake-Browser-Updates-Attacks-with/ba-p/876307
+
 Notes:
 - The format of the list is as follows:
 - <Stage-3 SocGholish domain>
@@ -155,5 +161,6 @@ SocGholish Infrastructure:
 =====
 
 Revision Notes:
-	- List published: 2/26/25
-        - Added publication[.]garyjobeferguson[.]com & rapiddevapi[.]com - 3/4/25
+- List published: 2/26/25
+- Added publication[.]garyjobeferguson[.]com & rapiddevapi[.]com - 3/4/25
+- Added some additional, recent SocGholish reference articles 
