@@ -15,6 +15,7 @@ Notes:
 
 - You might need VT Enterprise to see the 'Content' and 'Relation' tabs in VirusTotal which is where the most relevant information is.
 - Some Stage-3 domains I only found via searching for similar VT scripts, but never actually saw any Stage-2s calling out to them, these are the ones towards the bottom.
+- Some Stage-2 domains I saw in the wild but didn't see successful connections so the respective Stage-3 couldn't be determined.
 - Some Stage-2 domains have been observed reaching out to multiple Stage-3 domains over time, hence why they show up under multiple Stage-3 domains below.
 
 =====
@@ -74,7 +75,8 @@ SocGholish Infrastructure:
 	- blackshelter[.]org
 	- rednosehorse[.]com
 	- apiexplorerzone[.]com
-	- https://www.virustotal.com/gui/file/39bd6476057eb7a4a6b6880a1abcda4e87dc62ad44e46c7256e0e2817f780fbe/detection
+        - rapiddevapi[.]com
+        - https://www.virustotal.com/gui/file/39bd6476057eb7a4a6b6880a1abcda4e87dc62ad44e46c7256e0e2817f780fbe/detection
 	- https://www.virustotal.com/gui/file/19bf662ee014aad8ba0f40488dde4bdfc84f873d49dab32ec618046e2c200975/detection
 	- https://www.virustotal.com/gui/file/f08edf14933e29ea8ecd527211d735e80e4277d29a64dcadcb59b5d44b05c15c/detection
  
@@ -145,9 +147,13 @@ SocGholish Infrastructure:
 	- https://www.virustotal.com/gui/file/5adeedf5145f5f6fe7adb3f5b6eaa31c2fbff80dee087a80918e5f0e0e1f6034/detection
  
 - collar[.]agrcwv[.]org
-	- Honestly I don't remember how I came across this one, couldn't find it again referenced in a VT script.
+
+- publication[.]garyjobeferguson[.]com
+
+
 
 =====
 
 Revision Notes:
 	- List published: 2/26/25
+        - Added publication[.]garyjobeferguson[.]com & rapiddevapi[.]com - 3/4/25
