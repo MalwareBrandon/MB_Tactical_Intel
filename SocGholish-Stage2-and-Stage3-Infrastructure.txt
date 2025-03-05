@@ -20,7 +20,7 @@ Notes:
 	- <VirusTotal entry to the Stage-2 script that reaches out to the Stage-3>
 
 - You might need VT Enterprise to see the 'Content' and 'Relation' tabs in VirusTotal which is where the most relevant information is.
-- Some Stage-3 domains I only found via searching for similar VT scripts, but never actually saw any Stage-2s calling out to them, these are the ones towards the bottom.
+- Some Stage-3 domains I only found via searching for similar VT scripts, but never actually saw any Stage-2s calling out to them.
 - Some Stage-2 domains I saw in the wild but didn't see successful connections so the respective Stage-3 couldn't be determined.
 - Some Stage-2 domains have been observed reaching out to multiple Stage-3 domains over time, hence why they show up under multiple Stage-3 domains below.
 
