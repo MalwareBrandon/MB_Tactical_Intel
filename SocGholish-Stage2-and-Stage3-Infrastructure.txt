@@ -163,4 +163,4 @@ SocGholish Infrastructure:
 Revision Notes:
 - List published: 2/26/25
 - Added publication[.]garyjobeferguson[.]com & rapiddevapi[.]com - 3/4/25
-- Added some additional, recent SocGholish reference articles 
+- Added some additional, recent SocGholish reference articles - 3/4/25
