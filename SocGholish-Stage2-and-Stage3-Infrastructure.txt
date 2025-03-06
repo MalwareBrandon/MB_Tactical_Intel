@@ -82,6 +82,7 @@ SocGholish Infrastructure:
 	- rednosehorse[.]com
 	- apiexplorerzone[.]com
         - rapiddevapi[.]com
+        - blessedwirrow[.]org
         - https://www.virustotal.com/gui/file/39bd6476057eb7a4a6b6880a1abcda4e87dc62ad44e46c7256e0e2817f780fbe/detection
 	- https://www.virustotal.com/gui/file/19bf662ee014aad8ba0f40488dde4bdfc84f873d49dab32ec618046e2c200975/detection
 	- https://www.virustotal.com/gui/file/f08edf14933e29ea8ecd527211d735e80e4277d29a64dcadcb59b5d44b05c15c/detection
@@ -161,6 +162,7 @@ SocGholish Infrastructure:
 =====
 
 Revision Notes:
-- List published: 2/26/25
+- List published - 2/26/25
 - Added publication[.]garyjobeferguson[.]com & rapiddevapi[.]com - 3/4/25
 - Added some additional, recent SocGholish reference articles - 3/4/25
+- Added Stage-2: blessedwirrow[.]org - 3/6/25
