@@ -83,6 +83,7 @@ SocGholish Infrastructure:
 	- apiexplorerzone[.]com
         - rapiddevapi[.]com
         - blessedwirrow[.]org
+        - digdonger[.]org
         - https://www.virustotal.com/gui/file/39bd6476057eb7a4a6b6880a1abcda4e87dc62ad44e46c7256e0e2817f780fbe/detection
 	- https://www.virustotal.com/gui/file/19bf662ee014aad8ba0f40488dde4bdfc84f873d49dab32ec618046e2c200975/detection
 	- https://www.virustotal.com/gui/file/f08edf14933e29ea8ecd527211d735e80e4277d29a64dcadcb59b5d44b05c15c/detection
@@ -104,6 +105,13 @@ SocGholish Infrastructure:
 	- https://www.virustotal.com/gui/file/e845a141f674f9a0f2bacb8bf76d0fc5130257537d7490e55d87a23fb8c8906a/detection
 	- https://www.virustotal.com/gui/file/74967e1466662a2b521048cd6d78f5d0c9fe23cdf0690a228942d3c077eb9303/detection
 	- https://www.virustotal.com/gui/file/8d4ffd799b650965fd4cb13d89692f3dd156faa03ba5401c420a2e0e68168837/detection
+
+- support[.]traininghub[.]world
+        -
+
+- static[.]twalls5280[.]com
+        - getmanyme[.]com
+        - 
 
 - dashnex[.]plexusmarket[.]fund
 	- monsterpword[.]com
@@ -157,6 +165,8 @@ SocGholish Infrastructure:
 
 - publication[.]garyjobeferguson[.]com
 
+- foundedbrounded[.]org
+
 
 
 =====
@@ -166,3 +176,4 @@ Revision Notes:
 - Added publication[.]garyjobeferguson[.]com & rapiddevapi[.]com - 3/4/25
 - Added some additional, recent SocGholish reference articles - 3/4/25
 - Added Stage-2: blessedwirrow[.]org - 3/6/25
+- Added digdonger[.]org, foundedbrounded[.]org, static[.]twalls5280[.]com, getmanyme[.]com, support[.]traininghub[.]world - 3/21/25
