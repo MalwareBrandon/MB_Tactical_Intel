@@ -107,11 +107,13 @@ SocGholish Infrastructure:
 	- https://www.virustotal.com/gui/file/8d4ffd799b650965fd4cb13d89692f3dd156faa03ba5401c420a2e0e68168837/detection
 
 - support[.]traininghub[.]world
-        -
+        - https://www.virustotal.com/gui/file/5a7ff0894f181c4eaca9d57db0cec1d043eaf5ae3696240120653d9ed8774191/detection
+        - https://www.virustotal.com/gui/file/436a97f14051ed97063c9b2e12a25b0068984a0ebe164001e51615539561e64e/detection
+        - https://www.virustotal.com/gui/file/1140b0fb86f156087d9886e61e8d0c5a3a74ce73648fda609d507e6802b9af5e/detection
 
 - static[.]twalls5280[.]com
         - getmanyme[.]com
-        - 
+        - https://www.virustotal.com/gui/file/d0858a2d532c8bb3bdd8f98ff78c2c16da33c171815aa5c89ffeb84ee76b8cf5/detection
 
 - dashnex[.]plexusmarket[.]fund
 	- monsterpword[.]com
