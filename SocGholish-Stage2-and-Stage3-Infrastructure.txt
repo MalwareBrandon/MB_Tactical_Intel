@@ -162,12 +162,18 @@ SocGholish Infrastructure:
 - miner[.]eastestsite[.]com
 	- tnoodlezy[.]com
 	- https://www.virustotal.com/gui/file/5adeedf5145f5f6fe7adb3f5b6eaa31c2fbff80dee087a80918e5f0e0e1f6034/detection
- 
+
+- store[.]alignfrisco[.]com
+        - https://www.virustotal.com/gui/file/4d924a0712abd90d2a236e963d3dd18b801f3b85655eefeaede5363678820b8b/detection
+        - https://www.virustotal.com/gui/file/54fe0bbd46949e427e32e42be755c0ce5557cb6794aa6960405cd051cf1448d4/detection
+        - https://www.virustotal.com/gui/file/ca7344e582bb532a76620c6032ca8b2f9d169e1b9bde51fde4058b9957916e1a/detection
+
 - collar[.]agrcwv[.]org
 
 - publication[.]garyjobeferguson[.]com
 
 - foundedbrounded[.]org
+
 
 
 
@@ -179,3 +185,4 @@ Revision Notes:
 - Added some additional, recent SocGholish reference articles - 3/4/25
 - Added Stage-2: blessedwirrow[.]org - 3/6/25
 - Added digdonger[.]org, foundedbrounded[.]org, static[.]twalls5280[.]com, getmanyme[.]com, support[.]traininghub[.]world - 3/21/25
+- Added store[.]alignfrisco[.]com - 3/26/25
