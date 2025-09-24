@@ -84,6 +84,8 @@ SocGholish Infrastructure:
         - rapiddevapi[.]com
         - blessedwirrow[.]org
         - digdonger[.]org
+        - javascriptsynergy[.]com
+        - nodeapiintegrate[.]com
         - https://www.virustotal.com/gui/file/39bd6476057eb7a4a6b6880a1abcda4e87dc62ad44e46c7256e0e2817f780fbe/detection
 	- https://www.virustotal.com/gui/file/19bf662ee014aad8ba0f40488dde4bdfc84f873d49dab32ec618046e2c200975/detection
 	- https://www.virustotal.com/gui/file/f08edf14933e29ea8ecd527211d735e80e4277d29a64dcadcb59b5d44b05c15c/detection
@@ -113,6 +115,8 @@ SocGholish Infrastructure:
 
 - static[.]twalls5280[.]com
         - getmanyme[.]com
+        - split2econd[.]com/pixel[.]js
+        - robertocalimera[.]icu
         - https://www.virustotal.com/gui/file/d0858a2d532c8bb3bdd8f98ff78c2c16da33c171815aa5c89ffeb84ee76b8cf5/detection
 
 - dashnex[.]plexusmarket[.]fund
@@ -174,7 +178,16 @@ SocGholish Infrastructure:
 
 - foundedbrounded[.]org
 
+- envisionfonddulac[.]biz
 
+- updates[.]highendmark[.]com
+        - https://www.virustotal.com/gui/file/f586679d3b8239a2cd1674997fa8bf6f0b81381ba23f1934ccbc10c6b32e6e9c/detection
+
+- vps[.]denissalazar[.]com
+        - https://www.virustotal.com/gui/file/2083c85030e626dd734f81a67d5a3931b179a82797aaf9f260d89c4c4a7096cc/detection
+
+- devel[.]asurans[.]com
+        - https://www.virustotal.com/gui/url/afa741b0b396004a4447a853cb8242d96381bd9dccd1549a48b3944005aac17f
 
 
 =====
@@ -186,3 +199,4 @@ Revision Notes:
 - Added Stage-2: blessedwirrow[.]org - 3/6/25
 - Added digdonger[.]org, foundedbrounded[.]org, static[.]twalls5280[.]com, getmanyme[.]com, support[.]traininghub[.]world - 3/21/25
 - Added store[.]alignfrisco[.]com - 3/26/25
+- Added split2econd[.]com/pixel[.]js, robertocalimera[.]icu,  javascriptsynergy[.]com, nodeapiintegrate[.]com, envisionfonddulac[.]biz, updates[.]highendmark[.]com, vps[.]denissalazar[.]com, devel[.]asurans[.]com - 9/24/25
