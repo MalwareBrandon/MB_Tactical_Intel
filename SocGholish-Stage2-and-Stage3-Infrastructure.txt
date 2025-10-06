@@ -189,6 +189,11 @@ SocGholish Infrastructure:
 - devel[.]asurans[.]com
     - https://www.virustotal.com/gui/url/afa741b0b396004a4447a853cb8242d96381bd9dccd1549a48b3944005aac17f
 
+- billing[.]roofnrack[.]us
+    - https://www.virustotal.com/gui/domain/billing.roofnrack.us
+
+- mgmt[.]studerandson[.]us
+    - https://www.virustotal.com/gui/url/8205767b1397b3b422c8f86c8fe42eaadf56976590466d7325172306c1bdafc6/detection
 
 =====
 
@@ -200,3 +205,4 @@ Revision Notes:
 - Added digdonger[.]org, foundedbrounded[.]org, static[.]twalls5280[.]com, getmanyme[.]com, support[.]traininghub[.]world - 3/21/25
 - Added store[.]alignfrisco[.]com - 3/26/25
 - Added split2econd[.]com/pixel[.]js, robertocalimera[.]icu,  javascriptsynergy[.]com, nodeapiintegrate[.]com, envisionfonddulac[.]biz, updates[.]highendmark[.]com, vps[.]denissalazar[.]com, devel[.]asurans[.]com - 9/24/25
+- Added billing[.]roofnrack[.]us, mgmt[.]studerandson[.]us - 10/06/25
