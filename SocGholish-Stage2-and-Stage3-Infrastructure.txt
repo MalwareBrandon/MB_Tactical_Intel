@@ -184,8 +184,10 @@ SocGholish Infrastructure:
     - https://www.virustotal.com/gui/file/f586679d3b8239a2cd1674997fa8bf6f0b81381ba23f1934ccbc10c6b32e6e9c/detection
 
 - vps[.]denissalazar[.]com
+    - generatoryieldlab[.]com
+    - buildtoolsrvcore[.]com
     - https://www.virustotal.com/gui/file/2083c85030e626dd734f81a67d5a3931b179a82797aaf9f260d89c4c4a7096cc/detection
-
+    
 - devel[.]asurans[.]com
     - https://www.virustotal.com/gui/url/afa741b0b396004a4447a853cb8242d96381bd9dccd1549a48b3944005aac17f
 
@@ -206,3 +208,4 @@ Revision Notes:
 - Added store[.]alignfrisco[.]com - 3/26/25
 - Added split2econd[.]com/pixel[.]js, robertocalimera[.]icu,  javascriptsynergy[.]com, nodeapiintegrate[.]com, envisionfonddulac[.]biz, updates[.]highendmark[.]com, vps[.]denissalazar[.]com, devel[.]asurans[.]com - 9/24/25
 - Added billing[.]roofnrack[.]us, mgmt[.]studerandson[.]us - 10/06/25
+- Added generatoryieldlab[.]com and buildtoolsrvcore[.]com
