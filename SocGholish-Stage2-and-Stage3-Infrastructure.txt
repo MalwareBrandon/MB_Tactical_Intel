@@ -205,6 +205,26 @@ SocGholish Infrastructure:
 - mgmt[.]studerandson[.]us
     - https://www.virustotal.com/gui/url/8205767b1397b3b422c8f86c8fe42eaadf56976590466d7325172306c1bdafc6/detection
 
+- webmail[.]mentalpainandtrauma[.]com
+
+- storehouse[.]beautysupplysalonllc[.]com
+
+- b2b[.]genethairsalon[.]com
+
+- joinnow[.]diasporamedia[.]net
+
+- booking[.]skylinecarwashfm[.]com
+
+- delivery[.]fitswowllc[.]com
+
+- samples[.]addisgraphix[.]com
+
+- parish[.]menberetsebaotholytrinityeotc[.]org
+
+- events[.]douxny[.]com
+
+- shop[.]steadycompanion[.]com
+
 =====
 
 Revision Notes:
@@ -218,3 +238,4 @@ Revision Notes:
 - Added billing[.]roofnrack[.]us, mgmt[.]studerandson[.]us - 10/06/25
 - Added generatoryieldlab[.]com and buildtoolsrvcore[.]com
 - Added brands[.]khaitara[.]com, git[.]zionministry[.]org, content-website-analytics[.]com - 12/9/25
+- Added - webmail[.]mentalpainandtrauma[.]com, storehouse[.]beautysupplysalonllc[.]com, b2b[.]genethairsalon[.]com, joinnow[.]diasporamedia[.]net, booking[.]skylinecarwashfm[.]com, delivery[.]fitswowllc[.]com, samples[.]addisgraphix[.]com, parish[.]menberetsebaotholytrinityeotc[.]org, events[.]douxny[.]com, shop[.]steadycompanion[.]com - 2/3/26
