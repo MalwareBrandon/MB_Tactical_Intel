@@ -228,18 +228,30 @@ SocGholish Infrastructure:
 - webmail[.]drainbusters1[.]com
 	- https://www.virustotal.com/gui/file/83431fb48ce5e14a505bb3c106086967219038526cd14871b5ab7346aa51ce22
 	- https://www.virustotal.com/gui/file/ce566cbf1dd9da662c5119f89ef2e3073eb04a606784ae64a672b463519d9557
+
 - cpanel[.]sbkollel[.]org
 	- https://www.virustotal.com/gui/file/abcfdbdae84faa41990fe442f71ed45fa15243018f1a100c591ab64ad1bbad4a
+
 - pa-portal[.]benningtonspringsmhp[.]com
+
 - booking[.]fijivacations[.]com
+
 - zoom[.]immigrationeval[.]com
 	- https://www.virustotal.com/gui/file/af177e5a19240c4ba4df2bc8342f0c2f163da7d74bb7559e9ac3be0295fa3e44
+
 - cloud[.]grovecityhousepainting[.]com
 	- https://www.virustotal.com/gui/file/e63b1551d0ca50555a1cdf1601c4e28552814a6705dfedf0e375c8aafb46e6f6
+
 - webdisk[.]housecleaninggrovecityohio[.]com
 	- https://www.virustotal.com/gui/file/407741644f276d9053036797344c491483d7a2bb906242cfcb1b6258f4d96c03
+
 - support[.]grovecityelectrician[.]com
 
+- api-app[.]uppercrafteroom[.]com
+	- content-website-analytics[.]com/script[.]js
+
+- snap[.]promantree[.]com
+	- https://www.virustotal.com/gui/file/868d20d622548cd61c03befcc74d962927983cf242e74978700d8258da3a97f9/
 =====
 
 Revision Notes:
@@ -255,3 +267,4 @@ Revision Notes:
 - Added brands[.]khaitara[.]com, git[.]zionministry[.]org, content-website-analytics[.]com - 12/9/25
 - Added - webmail[.]mentalpainandtrauma[.]com, storehouse[.]beautysupplysalonllc[.]com, b2b[.]genethairsalon[.]com, joinnow[.]diasporamedia[.]net, booking[.]skylinecarwashfm[.]com, delivery[.]fitswowllc[.]com, samples[.]addisgraphix[.]com, parish[.]menberetsebaotholytrinityeotc[.]org, events[.]douxny[.]com, shop[.]steadycompanion[.]com - 2/3/26
 - Added webmail[.]drainbusters1[.]com, cpanel[.]sbkollel[.]org, pa-portal[.]benningtonspringsmhp[.]com, booking[.]fijivacations[.]com, zoom[.]immigrationeval[.]com, cloud[.]grovecityhousepainting[.]com, webdisk[.]housecleaninggrovecityohio[.]com, support[.]grovecityelectrician[.]com - 2/28/26
+- Added api-app[.]uppercrafteroom[.]com and snap[.]promantree[.]com - 3/13/26
