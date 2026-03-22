@@ -252,6 +252,10 @@ SocGholish Infrastructure:
 
 - snap[.]promantree[.]com
 	- https://www.virustotal.com/gui/file/868d20d622548cd61c03befcc74d962927983cf242e74978700d8258da3a97f9/
+
+- app-front[.]anmaradigital[.]com
+    - https://www.virustotal.com/gui/file/9a30c091b1cd8c78a5b5f60a578c61cbe36b950cb09feda43835687196a877a0/
+    - https://www.virustotal.com/gui/file/19fd9db69d3d02567bc1a1dab6f1d0d554426fdaf37cd71177926d9a33c43356/
 =====
 
 Revision Notes:
@@ -268,3 +272,4 @@ Revision Notes:
 - Added - webmail[.]mentalpainandtrauma[.]com, storehouse[.]beautysupplysalonllc[.]com, b2b[.]genethairsalon[.]com, joinnow[.]diasporamedia[.]net, booking[.]skylinecarwashfm[.]com, delivery[.]fitswowllc[.]com, samples[.]addisgraphix[.]com, parish[.]menberetsebaotholytrinityeotc[.]org, events[.]douxny[.]com, shop[.]steadycompanion[.]com - 2/3/26
 - Added webmail[.]drainbusters1[.]com, cpanel[.]sbkollel[.]org, pa-portal[.]benningtonspringsmhp[.]com, booking[.]fijivacations[.]com, zoom[.]immigrationeval[.]com, cloud[.]grovecityhousepainting[.]com, webdisk[.]housecleaninggrovecityohio[.]com, support[.]grovecityelectrician[.]com - 2/28/26
 - Added api-app[.]uppercrafteroom[.]com and snap[.]promantree[.]com - 3/13/26
+- Added app-front[.]anmaradigital[.]com - 3/22/2026
