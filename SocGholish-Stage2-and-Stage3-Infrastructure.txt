@@ -256,6 +256,16 @@ SocGholish Infrastructure:
 - app-front[.]anmaradigital[.]com
     - https://www.virustotal.com/gui/file/9a30c091b1cd8c78a5b5f60a578c61cbe36b950cb09feda43835687196a877a0/
     - https://www.virustotal.com/gui/file/19fd9db69d3d02567bc1a1dab6f1d0d554426fdaf37cd71177926d9a33c43356/
+
+- user[.]exathomessellmyhomeflorda[.]com
+	- muimiuse[.]shop/gtagadpixel.js
+    - https://www.virustotal.com/gui/file/772491c31187da31d0352cd722c2a84e21bdafc2ff79267f0935078ee2d682fc/
+
+- cpanel[.]siefertfamilydentistry[.]com
+
+- php-panel[.]letsgoautomotive[.]com
+	- content-website-analytics[.]com/script[.]js
+    - https://www.virustotal.com/gui/file/b0ffa2123f775b6b3331901e9e5a4fdf8cbe750cccbc9a29f450d4ab1b64ecf0/
 =====
 
 Revision Notes:
@@ -273,3 +283,4 @@ Revision Notes:
 - Added webmail[.]drainbusters1[.]com, cpanel[.]sbkollel[.]org, pa-portal[.]benningtonspringsmhp[.]com, booking[.]fijivacations[.]com, zoom[.]immigrationeval[.]com, cloud[.]grovecityhousepainting[.]com, webdisk[.]housecleaninggrovecityohio[.]com, support[.]grovecityelectrician[.]com - 2/28/26
 - Added api-app[.]uppercrafteroom[.]com and snap[.]promantree[.]com - 3/13/26
 - Added app-front[.]anmaradigital[.]com - 3/22/2026
+- Added user[.]exathomessellmyhomeflorda[.]com, muimiuse[.]shop/gtagadpixel.js, cpanel[.]siefertfamilydentistry[.]com, php-panel[.]letsgoautomotive[.]com - 6/29/26
